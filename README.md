@@ -20,7 +20,7 @@ The `Rock vs Mine prediction jupyter notebook.ipynb` notebook contains the Pytho
    ```bash
    git clone <[repository_url](https://github.com/Bramitha-gowda-M/Rock-vs-Mine-prediction-using-sonar-Dataset-using-Logistic-Regression)https://github.com/Bramitha-gowda-M/Rock-vs-Mine-prediction-using-sonar-Dataset-using-Logistic-Regression>
 
-2. Open and run the logistic_regression_classification.ipynb notebook in Jupyter Notebook or JupyterLab.
+2. Open and run the Rock vs Mine prediction jupyter notebook.ipynb notebook in Jupyter Notebook or JupyterLab.
 
 3. Follow the instructions and execute the cells to preprocess the data, train the logistic regression model, and evaluate its performance.
 
